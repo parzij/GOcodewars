@@ -3,5 +3,6 @@ Hello everyone, this repository is created for solutions to Codewars tasks in Go
 
 ![image](https://github.com/user-attachments/assets/3215758f-26f1-461e-a429-bc3155c633d6)
 
-![image](https://github.com/user-attachments/assets/4bb4e90f-75c0-45ce-bb48-ce9ee9b4fd8f)
+![image](https://github.com/user-attachments/assets/53af1d56-244f-4263-ac5c-4c4b9215b64c)
+
 
